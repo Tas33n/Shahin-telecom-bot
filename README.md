@@ -2,7 +2,6 @@
 
 ## Self-Hosting Instructions
 
-Edit: The third party API that I used for this is down.
 
 * Host a beken api server in your host
 * Use Python3 (and pip3) to install the 'telepot' and 'requests' modules.

@@ -3,7 +3,7 @@
 ## Self-Hosting Instructions
 
 
-* Host a beken api server in your host
+* Host a bekend api server in your host
 * Use Python3 (and pip3) to install the 'telepot' and 'requests' modules.
 * Create a new bot in telegram via [Botfather](https://telegram.me/botfather) and obtain the access token.
 * Add both API tokens in the main script.
